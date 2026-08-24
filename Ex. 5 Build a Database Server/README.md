@@ -99,7 +99,7 @@ Finally, I opened the web application using the provided EC2 IP address, navigat
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-<img width="1365" height="643" alt="Screenshot 2026-08-22 092242" src="https://github.com/user-attachments/assets/023bd0e6-63cc-4923-b942-c658b29ff34d" />
+<img width="1257" height="552" alt="image" src="https://github.com/user-attachments/assets/e5409fe5-9cf5-46dd-ab62-882c1fe7425c" />
 
 
 ---
@@ -107,16 +107,19 @@ Finally, I opened the web application using the provided EC2 IP address, navigat
 ### Screenshot 2: Database Service Running
 
 
-<img width="1365" height="643" alt="Screenshot 2026-08-22 092518" src="https://github.com/user-attachments/assets/6d717728-b8d9-415f-9f18-597e9a625ec3" />
-<img width="1364" height="644" alt="Screenshot 2026-08-22 093916" src="https://github.com/user-attachments/assets/4a158cae-4302-4f8f-9c49-f57b188e200f" />
+<img width="1262" height="557" alt="image" src="https://github.com/user-attachments/assets/fdc55953-00dd-4eb6-9d01-88324cacd4cf" />
+
+<img width="1267" height="556" alt="image" src="https://github.com/user-attachments/assets/355c1900-2370-4617-bbb0-7bc075dcf90b" />
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
 
-<img width="1365" height="722" alt="Screenshot 2026-08-23 215622" src="https://github.com/user-attachments/assets/2f5061aa-4514-4d1f-9f9d-8ac56a0a657f" />
-<img width="1365" height="639" alt="Screenshot 2026-08-23 215836" src="https://github.com/user-attachments/assets/0e5d4648-32b3-40e9-8d52-ab620959942e" />
+<img width="1130" height="590" alt="image" src="https://github.com/user-attachments/assets/6364c67d-17db-4b5a-ac3d-72cc4f9e349f" />
+
+<img width="1142" height="542" alt="image" src="https://github.com/user-attachments/assets/31fc2295-9a1b-48a8-b1c2-c87fbee82218" />
+
 
 ---
 
